@@ -23,7 +23,7 @@ This project explores a dataset of over 2,000 books to uncover trends in genres,
 
 ## 📁 Files
 
-- `Book_Analysis_Template.ipynb` – the main notebook
+- `Book_Analysis.ipynb` – the main notebook
 - `Books.csv` – dataset used for analysis (not included here if private)
 
 ## ✅ Conclusion
